@@ -1,0 +1,31 @@
+body{
+    padding-top: 15px;
+} 
+
+h1{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+/* .container{
+  border-style: solid;
+  border-width: thin;
+  border-color: lightsteelblue;
+  padding: 18px;
+}
+
+.row{
+  border-style: solid;
+  border-width: thin;
+  border-color: tan;
+  padding: 5px;
+}
+
+
+.col-4{
+  border-style: solid;
+  border-width: thin;
+  border-color: thistle;
+  padding: 5px;
+}  */
+
